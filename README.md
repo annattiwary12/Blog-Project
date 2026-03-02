@@ -83,7 +83,7 @@ CREATE DATABASE blog_db;
 - spring.jpa.properties.hibernate.format_sql=true
 
 
-## ▶️ Running the Application
+# ▶️ Running the Application
 
 ### Clone the repository
 
@@ -97,9 +97,9 @@ cd blog-platform
 | POST   | /api/auth/authenticate | Login user        |
 
 
-```<img width="1594" height="892" alt="image" src="https://github.com/user-attachments/assets/395b2ed8-01ba-43f6-a41a-edd63e146952" />
+```
 
-
+---
 # 📚 What I Learned
 
 - Designing RESTful APIs
@@ -113,7 +113,7 @@ cd blog-platform
 - Exception handling best practices
 
 - Clean backend architecture
-
+---
 # 📌 Future Improvements
 
 - Pagination & Sorting
@@ -127,6 +127,8 @@ cd blog-platform
 - Docker support
 
 - Deployment to cloud (AWS / Render)
+---
+<img width="1594" height="892" alt="image" src="https://github.com/user-attachments/assets/395b2ed8-01ba-43f6-a41a-edd63e146952" />
 
 # 👨‍💻 Author
 
